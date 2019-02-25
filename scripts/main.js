@@ -1,0 +1,1 @@
+alert ("Witajcie w mojej bajce!");
